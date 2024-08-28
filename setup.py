@@ -10,7 +10,7 @@ setuptools.setup(
     license="",
     python_requires=">3.6",
     install_requires=[
-    'altered_midas @ git+https://github.com/CCareaga/MiDaS@master',
+    'altered_midas @ git+https://github.com/CCareaga/MiDaS@898fa018633157ebe015e9d52e25710494cf4590',
     'chrislib @ git+https://github.com/CCareaga/chrislib@main'
     ]
 )
